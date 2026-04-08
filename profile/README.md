@@ -1,6 +1,6 @@
 # LiquoTrack
 
-Somos un grupo de desarrolladores enfocados en la creación de soluciones de software, reunidos para desarrollar Stocksip para el curso de Desarrollo de Soluciones IoT correspondiente al ciclo 2026-1 de la UPC.
+Somos un grupo de desarrolladores enfocados en la creación de soluciones de software, reunidos para desarrollar Stocksip para el curso de Diseño de Experimentos de Ingeniería de Software correspondiente al ciclo 2026-1 de la UPC.
 
 ## Nuestra misión
 
@@ -21,6 +21,7 @@ Un equipo multidisciplinario de desarrolladores comprometidos con el desarrollo 
 - Nicolas Emilio Walter Juarez Leon
 - Matias Sebastian Diaz Quispe
 - Farid Sebastian Coronel Espinoza
+- Sergio Gino Julca Minaya
 
 ## Nuestros valores
 
